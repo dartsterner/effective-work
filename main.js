@@ -12,7 +12,7 @@
 
 }((typeof window === 'undefined') ? module.exports : window));
 
-
+//yes
  function permutations(arr, current) {
       if (current >= arr.length) {
         return res.push(arr.slice());
